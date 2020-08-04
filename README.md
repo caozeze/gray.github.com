@@ -1,2 +1,2 @@
-# gray.github.com
+# gray.io
 homepage
