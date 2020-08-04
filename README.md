@@ -1,2 +1,2 @@
-# graysbicycle.io
+# gray.io
 homepage
